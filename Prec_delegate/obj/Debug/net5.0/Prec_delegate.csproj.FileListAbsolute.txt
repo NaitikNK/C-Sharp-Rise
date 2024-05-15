@@ -1,0 +1,16 @@
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\bin\Debug\net5.0\Prec_delegate.exe
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\bin\Debug\net5.0\Prec_delegate.deps.json
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\bin\Debug\net5.0\Prec_delegate.runtimeconfig.json
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\bin\Debug\net5.0\Prec_delegate.runtimeconfig.dev.json
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\bin\Debug\net5.0\Prec_delegate.dll
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\bin\Debug\net5.0\Prec_delegate.pdb
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.AssemblyInfoInputs.cache
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.AssemblyInfo.cs
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.csproj.CoreCompileInputs.cache
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.sourcelink.json
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.dll
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\refint\Prec_delegate.dll
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.pdb
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\Prec_delegate.genruntimeconfig.cache
+C:\Users\naiti\source\repos\Trial 1\Prec_delegate\obj\Debug\net5.0\ref\Prec_delegate.dll

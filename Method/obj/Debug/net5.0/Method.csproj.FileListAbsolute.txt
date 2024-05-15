@@ -1,0 +1,16 @@
+C:\Users\naiti\source\repos\Trial 1\Method\bin\Debug\net5.0\Method.exe
+C:\Users\naiti\source\repos\Trial 1\Method\bin\Debug\net5.0\Method.deps.json
+C:\Users\naiti\source\repos\Trial 1\Method\bin\Debug\net5.0\Method.runtimeconfig.json
+C:\Users\naiti\source\repos\Trial 1\Method\bin\Debug\net5.0\Method.runtimeconfig.dev.json
+C:\Users\naiti\source\repos\Trial 1\Method\bin\Debug\net5.0\Method.dll
+C:\Users\naiti\source\repos\Trial 1\Method\bin\Debug\net5.0\Method.pdb
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.AssemblyInfoInputs.cache
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.AssemblyInfo.cs
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.sourcelink.json
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.dll
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\refint\Method.dll
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.pdb
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\Method.genruntimeconfig.cache
+C:\Users\naiti\source\repos\Trial 1\Method\obj\Debug\net5.0\ref\Method.dll

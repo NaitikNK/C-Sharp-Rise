@@ -1,0 +1,20 @@
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\Class Practice Project.exe
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\Class Practice Project.deps.json
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\Class Practice Project.runtimeconfig.json
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\Class Practice Project.runtimeconfig.dev.json
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\Class Practice Project.dll
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\Class Practice Project.pdb
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\ClassLib.dll
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\bin\Debug\net5.0\ClassLib.pdb
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.csproj.AssemblyReference.cache
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.AssemblyInfoInputs.cache
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.AssemblyInfo.cs
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.csproj.CoreCompileInputs.cache
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.sourcelink.json
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Pr.68EA502A.Up2Date
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.dll
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\refint\Class Practice Project.dll
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.pdb
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\Class Practice Project.genruntimeconfig.cache
+C:\Users\naiti\source\repos\Trial 1\Class Practice Project\obj\Debug\net5.0\ref\Class Practice Project.dll
