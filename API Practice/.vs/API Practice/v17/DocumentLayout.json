@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naiti\\source\\repos\\API Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|c:\\users\\naiti\\source\\repos\\api practice\\api practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|solutionrelative:api practice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|c:\\users\\naiti\\source\\repos\\api practice\\api practice\\migrations\\20240508094505_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|solutionrelative:api practice\\migrations\\20240508094505_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|c:\\users\\naiti\\source\\repos\\api practice\\api practice\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|solutionrelative:api practice\\data\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|c:\\users\\naiti\\source\\repos\\api practice\\api practice\\data\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|solutionrelative:api practice\\data\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|c:\\users\\naiti\\source\\repos\\api practice\\api practice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|solutionrelative:api practice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|c:\\users\\naiti\\source\\repos\\api practice\\api practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7337082C-7FA6-4D0C-A247-B580D08609A4}|API Practice\\API Practice.csproj|solutionrelative:api practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240508094505_init4.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Migrations\\20240508094505_init4.cs",
+              "RelativeDocumentMoniker": "API Practice\\Migrations\\20240508094505_init4.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Migrations\\20240508094505_init4.cs",
+              "RelativeToolTip": "API Practice\\Migrations\\20240508094505_init4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T09:45:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\appsettings.json",
+              "RelativeDocumentMoniker": "API Practice\\appsettings.json",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\appsettings.json",
+              "RelativeToolTip": "API Practice\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-08T08:59:48.185Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Program.cs",
+              "RelativeDocumentMoniker": "API Practice\\Program.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Program.cs",
+              "RelativeToolTip": "API Practice\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:56:31.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDBcontext.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Data\\AppDBcontext.cs",
+              "RelativeDocumentMoniker": "API Practice\\Data\\AppDBcontext.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Data\\AppDBcontext.cs",
+              "RelativeToolTip": "API Practice\\Data\\AppDBcontext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:52:15.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Price.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Data\\Price.cs",
+              "RelativeDocumentMoniker": "API Practice\\Data\\Price.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Data\\Price.cs",
+              "RelativeToolTip": "API Practice\\Data\\Price.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:50:43.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Data\\Book.cs",
+              "RelativeDocumentMoniker": "API Practice\\Data\\Book.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\API Practice\\API Practice\\Data\\Book.cs",
+              "RelativeToolTip": "API Practice\\Data\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T08:49:33.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

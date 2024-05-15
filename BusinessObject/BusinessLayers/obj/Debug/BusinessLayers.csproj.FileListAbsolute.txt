@@ -1,0 +1,11 @@
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\bin\Debug\BusinessLayers.dll
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\bin\Debug\BusinessLayers.pdb
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\obj\Debug\BusinessLayers.csproj.AssemblyReference.cache
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\obj\Debug\BusinessLayers.csproj.CoreCompileInputs.cache
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\obj\Debug\Business.7A66292E.Up2Date
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\obj\Debug\BusinessLayers.dll
+C:\Users\naiti\source\repos\BusinessObject\BusinessLayers\obj\Debug\BusinessLayers.pdb

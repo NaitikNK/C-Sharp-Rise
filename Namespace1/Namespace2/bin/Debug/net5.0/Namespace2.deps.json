@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Namespace2/1.0.0": {
+        "dependencies": {
+          "Classlib": "1.0.0",
+          "Namespace1": "1.0.0"
+        },
+        "runtime": {
+          "Namespace2.dll": {}
+        }
+      },
+      "Classlib/1.0.0": {
+        "runtime": {
+          "Classlib.dll": {}
+        }
+      },
+      "Namespace1/1.0.0": {
+        "runtime": {
+          "Namespace1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Namespace2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Classlib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Namespace1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

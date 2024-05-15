@@ -1,0 +1,11 @@
+C:\Users\naiti\source\repos\Namespace1\Classlib\bin\Debug\net5.0\Classlib.deps.json
+C:\Users\naiti\source\repos\Namespace1\Classlib\bin\Debug\net5.0\Classlib.dll
+C:\Users\naiti\source\repos\Namespace1\Classlib\bin\Debug\net5.0\Classlib.pdb
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\Classlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\Classlib.AssemblyInfoInputs.cache
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\Classlib.AssemblyInfo.cs
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\Classlib.csproj.CoreCompileInputs.cache
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\Classlib.dll
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\refint\Classlib.dll
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\Classlib.pdb
+C:\Users\naiti\source\repos\Namespace1\Classlib\obj\Debug\net5.0\ref\Classlib.dll

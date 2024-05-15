@@ -1,0 +1,15 @@
+C:\Users\naiti\source\repos\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.exe
+C:\Users\naiti\source\repos\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.deps.json
+C:\Users\naiti\source\repos\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.runtimeconfig.json
+C:\Users\naiti\source\repos\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.runtimeconfig.dev.json
+C:\Users\naiti\source\repos\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.dll
+C:\Users\naiti\source\repos\Namespace1\Namespace1\bin\Debug\net5.0\Namespace1.pdb
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.AssemblyInfoInputs.cache
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.AssemblyInfo.cs
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.csproj.CoreCompileInputs.cache
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.dll
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\refint\Namespace1.dll
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.pdb
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\Namespace1.genruntimeconfig.cache
+C:\Users\naiti\source\repos\Namespace1\Namespace1\obj\Debug\net5.0\ref\Namespace1.dll
