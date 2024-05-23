@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\naiti\\source\\repos\\CouponCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\model\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\model\\notification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\migrations\\20240523035354_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\migrations\\20240523035354_init4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\controllers\\coupen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\controllers\\coupen.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\model\\coupendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\model\\coupendb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\expirecouponcleanupservie\\expirecouponcleanupservie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\expirecouponcleanupservie\\expirecouponcleanupservie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\model\\dto\\coupenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\model\\dto\\coupenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\migrations\\20240517111743_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\migrations\\20240517111743_v1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\migrations\\20240517112217_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\migrations\\20240517112217_v2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\migrations\\20240517182221_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\migrations\\20240517182221_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\migrations\\20240520073456_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\migrations\\20240520073456_init1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|c:\\users\\naiti\\source\\repos\\couponcode\\couponcode\\migrations\\20240520120623_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC09853-2DE5-48A2-84D1-103267C8BC51}|CouponCode\\CouponCode.csproj|solutionrelative:couponcode\\migrations\\20240520120623_init3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "coupen.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Controllers\\coupen.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Controllers\\coupen.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Controllers\\coupen.cs",
+              "RelativeToolTip": "CouponCode\\Controllers\\coupen.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:25:06.138Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240523035354_Init4.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240523035354_Init4.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Migrations\\20240523035354_Init4.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240523035354_Init4.cs",
+              "RelativeToolTip": "CouponCode\\Migrations\\20240523035354_Init4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:53:54.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CouponCode\\context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\context\\AppDbContext.cs",
+              "RelativeToolTip": "CouponCode\\context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T03:44:47.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\appsettings.json",
+              "RelativeDocumentMoniker": "CouponCode\\appsettings.json",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\appsettings.json",
+              "RelativeToolTip": "CouponCode\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-17T11:05:07.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "coupenDb.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\model\\coupenDb.cs",
+              "RelativeDocumentMoniker": "CouponCode\\model\\coupenDb.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\model\\coupenDb.cs",
+              "RelativeToolTip": "CouponCode\\model\\coupenDb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:59:09.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Notification.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\model\\Notification.cs",
+              "RelativeDocumentMoniker": "CouponCode\\model\\Notification.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\model\\Notification.cs",
+              "RelativeToolTip": "CouponCode\\model\\Notification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:28:05.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Controllers\\NotificationController.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "CouponCode\\Controllers\\NotificationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T12:54:55.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExpireCouponCleanupServie.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\ExpireCouponCleanupServie\\ExpireCouponCleanupServie.cs",
+              "RelativeDocumentMoniker": "CouponCode\\ExpireCouponCleanupServie\\ExpireCouponCleanupServie.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\ExpireCouponCleanupServie\\ExpireCouponCleanupServie.cs",
+              "RelativeToolTip": "CouponCode\\ExpireCouponCleanupServie\\ExpireCouponCleanupServie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:17:32.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Program.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Program.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Program.cs",
+              "RelativeToolTip": "CouponCode\\Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:14:29.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoupenRequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\model\\Dto\\CoupenRequestDto.cs",
+              "RelativeDocumentMoniker": "CouponCode\\model\\Dto\\CoupenRequestDto.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\model\\Dto\\CoupenRequestDto.cs",
+              "RelativeToolTip": "CouponCode\\model\\Dto\\CoupenRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:05:03.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240517182221_init.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240517182221_init.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Migrations\\20240517182221_init.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240517182221_init.cs",
+              "RelativeToolTip": "CouponCode\\Migrations\\20240517182221_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T18:22:21.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240520073456_Init1.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240520073456_Init1.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Migrations\\20240520073456_Init1.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240520073456_Init1.cs",
+              "RelativeToolTip": "CouponCode\\Migrations\\20240520073456_Init1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T07:34:56.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240520120623_Init3.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240520120623_Init3.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Migrations\\20240520120623_Init3.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240520120623_Init3.cs",
+              "RelativeToolTip": "CouponCode\\Migrations\\20240520120623_Init3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T12:06:23.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240517112217_v2.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240517112217_v2.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Migrations\\20240517112217_v2.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240517112217_v2.cs",
+              "RelativeToolTip": "CouponCode\\Migrations\\20240517112217_v2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:22:17.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240517111743_v1.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240517111743_v1.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Migrations\\20240517111743_v1.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Migrations\\20240517111743_v1.cs",
+              "RelativeToolTip": "CouponCode\\Migrations\\20240517111743_v1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T11:17:44.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CouponCode\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\naiti\\source\\repos\\CouponCode\\CouponCode\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CouponCode\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T10:57:27.591Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
