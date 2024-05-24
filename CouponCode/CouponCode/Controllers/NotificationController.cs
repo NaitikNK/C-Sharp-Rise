@@ -1,8 +1,9 @@
 ﻿using CouponCode.context;
 using CouponCode.model;
-using Microsoft.AspNetCore.Http;
+using CouponCode.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace CouponCode.Controllers
 {
@@ -10,63 +11,50 @@ namespace CouponCode.Controllers
     [ApiController]
     public class NotificationController : ControllerBase
     {
-        private readonly AppDbContext _appDbContext;
+        private readonly INotificationService _notificationService;
 
-        public NotificationController(AppDbContext appDbContext)
+        public NotificationController(INotificationService notificationService)
         {
-            _appDbContext = appDbContext;
-        }           
-        
-
-        [HttpGet]
-        public async Task<IActionResult> HandleNotifications(
-        [FromQuery] string? userId = null,
-        [FromQuery] int? markAsReadId = null,
-        [FromQuery] string? createUserId = null,
-        [FromQuery] string? message = null)
-        {
-            // Get notifications for a user
-            if (!string.IsNullOrEmpty(userId))
-            {
-                var notifications = await _appDbContext.notifications
-                    .Where(n => n.UserId == userId && !n.IsRead)
-                    .ToListAsync();
-                return Ok(notifications);
-            }
-
-            // Mark a notification as read
-            if (markAsReadId.HasValue)
-            {
-                var notification = await _appDbContext.notifications.FindAsync(markAsReadId.Value);
-                if (notification == null)
-                {
-                    return NotFound();
-                }
-
-                notification.IsRead = true;
-                await _appDbContext.SaveChangesAsync();
-                return NoContent();
-            }
-
-            // Create a new notification
-            if (!string.IsNullOrEmpty(createUserId) && !string.IsNullOrEmpty(message))
-            {
-                var notification = new Notification
-                {
-                    UserId = createUserId,
-                    Message = message,
-                    TimeStamp = DateTime.Now,
-                    IsRead = false
-                };
-
-                _appDbContext.notifications.Add(notification);
-                await _appDbContext.SaveChangesAsync();
-
-                return CreatedAtAction(nameof(HandleNotifications), new { userId = createUserId }, notification);
-            }
-
-            return BadRequest("Invalid parameters provided.");
+            _notificationService = notificationService;
         }
 
+        [HttpPost]
+        public async Task<ActionResult<Notification>> CreateNotification(Notification notification)
+        {
+            var createdNotification = await _notificationService.CreateNotification(notification);
+            return CreatedAtAction(nameof(GetNotificationById), new { id = createdNotification.Id }, createdNotification);
+        }
+
+        [HttpGet]
+        public async Task<ActionResult<IEnumerable<Notification>>> GetAllNotifications()
+        {
+            var notifications = await _notificationService.GetAllNotifications();
+            return Ok(notifications);
+        }
+
+        [HttpGet("{id}")]
+        public async Task<ActionResult<Notification>> GetNotificationById(int id)
+        {
+            var notification = await _notificationService.GetNotificationById(id);
+            if (notification == null)
+            {
+                return NotFound();
+            }
+            return Ok(notification);
+        }
+
+        [HttpDelete("{id}")]
+        public async Task<IActionResult> DeleteNotification(int id)
+        {
+            await _notificationService.DeleteNotification(id);
+            return NoContent();
+        }
+
+        [HttpDelete]
+        public async Task<IActionResult> DeleteAllNotifications()
+        {
+            await _notificationService.DeleteAllNotifications();
+            return NoContent();
+        }
     }
 }

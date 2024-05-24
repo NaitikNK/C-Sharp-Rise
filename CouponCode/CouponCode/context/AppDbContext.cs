@@ -12,7 +12,7 @@ namespace CouponCode.context
         }
         public DbSet<coupenDb> CoupenDbs { get; set; }
         public DbSet<User> Users { get; set; }
-        public DbSet<Notification> notifications { get; set; }
+        public DbSet<Notification> Notifications { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {

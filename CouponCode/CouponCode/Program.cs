@@ -2,6 +2,7 @@ using CouponCode.context;
 using CouponCode.Controllers;
 using CouponCode.ExpireCouponCleanupServie;
 using CouponCode.model;
+using CouponCode.Services;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Options;
 
@@ -16,16 +17,12 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddHostedService<ExpireCouponCleanupServie>();
 builder.Services.AddControllers();
 
-builder.Services.AddDbContext<AppDbContext>(options =>
-{
-    options.UseSqlServer(builder.Configuration.GetConnectionString("sqlServerConnstr"));
-});
-
 builder.Services.AddDbContext<AppDbContext>(option =>
 {
     option.UseSqlServer(builder.Configuration.GetConnectionString("sqlServerConnStr"));
 });
 
+builder.Services.AddScoped<INotificationService, NotificationService>();
 
 
 var app = builder.Build();
